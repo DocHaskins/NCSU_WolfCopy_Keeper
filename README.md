@@ -156,8 +156,7 @@ Tap any printer to see:
 ### Regular Maintenance
 1. **Check supply levels weekly** using the Buildings or Devices tabs
 2. **Update toner levels** after replacements via printer detail screens
-3. **Record service calls** using the "Record Service" button
-4. **Add notes** for maintenance history and special instructions
+3. **Add notes** for maintenance history and special instructions, these are stored in backups and can be shared with other team members by importing backups
 
 ### Efficient Navigation
 - Use **building filter** to focus on specific locations
@@ -172,7 +171,6 @@ Tap any printer to see:
 - **Record meter readings** for offline devices
 
 ## Troubleshooting
-
 ### Printer Not Updating
 - Verify IP address is correct in printer settings
 - Check network connectivity to the printer
@@ -188,5 +186,4 @@ Tap any printer to see:
 - Ensure required columns (ID, Building, Room, Model) are present
 - Check for duplicate printer IDs
 - Verify building names match existing locations
-
 ---
