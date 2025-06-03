@@ -5,6 +5,7 @@
 WolfCopy Keeper helps you track supplies, monitor usage, and manage your organization's printers and copiers. Never run out of toner again with smart alerts and usage predictions!
 
 ## Getting Started
+Youtube Tutorial - https://youtu.be/pDJG-A0HlLo - Getting Started
 
 ### Main Navigation
 WolfCopy Keeper has four main tabs at the top:
