@@ -83,8 +83,8 @@ WolfCopy Keeper has four main tabs at the top:
 
 ### Supply Status Colors
 - **Green (80-100%)**: Plenty remaining
-- **Orange (20-79%)**: Order soon
-- **Red (0-19%)**: Critical - replace immediately
+- **Orange (10-79%)**: Order soon
+- **Red (0-10%)**: Critical - order immediately
 
 ## Filtering and Search
 
