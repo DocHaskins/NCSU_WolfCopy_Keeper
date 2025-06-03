@@ -2,27 +2,27 @@
 
 **The Complete Printer Fleet Management Solution**
 
-WolfCopy Keeper helps you track supplies, monitor usage, and manage your organization's printers and copiers. Never run out of toner again with smart alerts and usage predictions!
+WolfCopy Keeper helps you track supplies, monitor usage, and manage your organization's devices and copiers. Never run out of toner again with smart alerts and usage predictions!
 
 ## Getting Started
 Youtube Tutorial - https://youtu.be/pDJG-A0HlLo - Getting Started
 
 ### Main Navigation
 WolfCopy Keeper has four main tabs at the top:
-- **🗺️ Map** - See all printers on an interactive map
-- **🏢 Buildings** - View printers organized by building
-- **🖨️ Devices** - List view of all printers with detailed filtering
+- **🗺️ Map** - See all devices on an interactive map
+- **🏢 Buildings** - View devices organized by building
+- **🖨️ Devices** - List view of all devices with detailed filtering
 - **⚙️ Settings** - Import data, export reports, and configure the app
 
-## Adding Your First Printers
+## Adding Your First Device
 
-### Method 1: Import from Excel (Recommended for Multiple Printers)
+### Method 1: Import from Excel (Recommended for Multiple Devices)
 1. Go to **Settings** tab → **Import Excel**
 2. Select your Excel file with printer data
 3. Map the columns (ID, Building, Room, Model, etc.)
 4. Preview and confirm the import
 
-### Method 2: Add Individual Printers
+### Method 2: Add Individual Devices
 1. Go to **Settings** tab → **Add Device**
 2. Fill in the required information:
    - **Printer ID** (required)
@@ -56,7 +56,7 @@ WolfCopy Keeper has four main tabs at the top:
 - **📍** button: Go to your current location
 - **👁️** button: Toggle your location visibility
 - **🏢** button: Toggle building labels
-- **⛶** button: Fit all printers on screen
+- **⛶** button: Fit all devices on screen
 
 ### Map Features
 - **Building Directory**: Use the dropdown at the top to jump to specific buildings
@@ -89,7 +89,7 @@ WolfCopy Keeper has four main tabs at the top:
 ## Filtering and Search
 
 ### CSR Filter (top right)
-- Filter printers by assigned technician/CSR
+- Filter devices by assigned technician/CSR
 - Useful for service routing and accountability
 
 ### Buildings Tab Filters
@@ -102,7 +102,7 @@ WolfCopy Keeper has four main tabs at the top:
 - **Filter by status**: All, Alerts, Low Toner, Low Paper
 - **Search by**: All fields, name, ID, model, or location
 
-## Working with Individual Printers
+## Working with Individual Devices
 
 ### Printer Detail Screen
 Tap any printer to see:
@@ -140,15 +140,15 @@ Tap any printer to see:
 
 ## Understanding Status Indicators
 
-### Printer Status
+### Device Status
 - **🟢 Normal**: No issues detected
 - **🟡 Warning**: Low supplies or minor issues
 - **🔴 Error**: Critical supplies or system errors
 - **⚫ Offline**: Not responding (powered off or network issue)
 
 ### Building View
-- **Device count**: Total printers in building
-- **Status badges**: Count of printers needing attention
+- **Device count**: Total devices in building
+- **Status badges**: Count of devices needing attention
 - **Images**: Building photos for easy identification
 
 ## Tips for Best Results
@@ -161,15 +161,15 @@ Tap any printer to see:
 
 ### Efficient Navigation
 - Use **building filter** to focus on specific locations
-- Apply **CSR filter** to see only your assigned printers
-- **Search function** to quickly find specific printers
+- Apply **CSR filter** to see only your assigned devices
+- **Search function** to quickly find specific devices
 - **Map view** for visual location reference
 
 ### Data Accuracy
 - **Verify GPS coordinates** for accurate map placement
-- **Keep building names consistent** across all printers
-- **Update room numbers** when printers are moved
-- **Record meter readings** for offline printers
+- **Keep building names consistent** across all devices
+- **Update room numbers** when devices are moved
+- **Record meter readings** for offline devices
 
 ## Troubleshooting
 
@@ -181,7 +181,7 @@ Tap any printer to see:
 
 ### Location Issues
 - Confirm GPS coordinates are entered correctly
-- Check that building information matches between printers
+- Check that building information matches between devices
 - Verify location services are enabled on your device
 
 ### Import Problems
